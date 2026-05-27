@@ -1,0 +1,17 @@
+{
+  "id": "RF_GPS/SAM-M8Q:SAM-M8Q",
+  "name": "SAM-M8Q",
+  "library": "RF_GPS",
+  "file": "RF_GPS.kicad_symdir/SAM-M8Q.kicad_sym",
+  "description": "GPS ublox M8 variant",
+  "datasheet": "https://www.u-blox.com/sites/default/files/SAM-M8Q_DataSheet_%28UBX-16012619%29.pdf",
+  "keywords": "gps module with antenna",
+  "footprint": "RF_GPS:ublox_SAM-M8Q",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-gps@master/parts/SAM-M8Q/",
+  "part_path": "parts/SAM-M8Q",
+  "symbol_file": "parts/SAM-M8Q/SAM-M8Q.kicad_sym",
+  "source_library": "RF_GPS.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:14.952Z"
+}

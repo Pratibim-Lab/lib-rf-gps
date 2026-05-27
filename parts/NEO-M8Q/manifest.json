@@ -1,0 +1,17 @@
+{
+  "id": "RF_GPS/NEO-M8Q:NEO-M8Q",
+  "name": "NEO-M8Q",
+  "library": "RF_GPS",
+  "file": "RF_GPS.kicad_symdir/NEO-M8Q.kicad_sym",
+  "description": "GNSS Module NEO M8, VCC 2.7V to 3.6V",
+  "datasheet": "https://content.u-blox.com/sites/default/files/NEO-M8-FW3_DataSheet_UBX-15031086.pdf",
+  "keywords": "ublox GPS GNSS module",
+  "footprint": "RF_GPS:ublox_NEO",
+  "extends": "NEO-M8N",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-gps@master/parts/NEO-M8Q/",
+  "part_path": "parts/NEO-M8Q",
+  "symbol_file": "parts/NEO-M8Q/NEO-M8Q.kicad_sym",
+  "source_library": "RF_GPS.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:14.936Z"
+}

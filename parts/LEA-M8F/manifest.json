@@ -1,0 +1,17 @@
+{
+  "id": "RF_GPS/LEA-M8F:LEA-M8F",
+  "name": "LEA-M8F",
+  "library": "RF_GPS",
+  "file": "RF_GPS.kicad_symdir/LEA-M8F.kicad_sym",
+  "description": "GNSS Module LEA M8, VCC 3V to 3.6V",
+  "datasheet": "https://www.u-blox.com/sites/default/files/products/documents/LEA-M8F_DataSheet_%28UBX-14001772%29.pdf",
+  "keywords": "ublox GPS GNSS module",
+  "footprint": "RF_GPS:ublox_LEA",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-gps@master/parts/LEA-M8F/",
+  "part_path": "parts/LEA-M8F",
+  "symbol_file": "parts/LEA-M8F/LEA-M8F.kicad_sym",
+  "source_library": "RF_GPS.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:14.875Z"
+}

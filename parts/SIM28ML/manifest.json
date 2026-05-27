@@ -1,0 +1,17 @@
+{
+  "id": "RF_GPS/SIM28ML:SIM28ML",
+  "name": "SIM28ML",
+  "library": "RF_GPS",
+  "file": "RF_GPS.kicad_symdir/SIM28ML.kicad_sym",
+  "description": "Standalone GPS/A-GPS receiver module, built-in LNA, -165dBm sensitivity, 2.8-4.3V, SMD",
+  "datasheet": "https://simcom.ee/documents/SIM28ML/SIM28ML_Hardware%20Design_V1.01.pdf",
+  "keywords": "GPS A-GPS receiver",
+  "footprint": "RF_GPS:SIM28ML",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-gps@master/parts/SIM28ML/",
+  "part_path": "parts/SIM28ML",
+  "symbol_file": "parts/SIM28ML/SIM28ML.kicad_sym",
+  "source_library": "RF_GPS.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:14.956Z"
+}

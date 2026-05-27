@@ -1,0 +1,17 @@
+{
+  "id": "RF_GPS/MIA-M10Q:MIA-M10Q",
+  "name": "MIA-M10Q",
+  "library": "RF_GPS",
+  "file": "RF_GPS.kicad_symdir/MIA-M10Q.kicad_sym",
+  "description": "GNSS receiver module (GPS, Galileo, GLONASS, BeiDou), I2C / UART interface, LGA-53 (MIA M-LGA53)",
+  "datasheet": "https://content.u-blox.com/sites/default/files/documents/MIA-M10Q_DataSheet_UBX-22015849.pdf",
+  "keywords": "u-blox",
+  "footprint": "Package_LGA:ublox_LGA-53_4.5x4.5mm_Layout9x9_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-gps@master/parts/MIA-M10Q/",
+  "part_path": "parts/MIA-M10Q",
+  "symbol_file": "parts/MIA-M10Q/MIA-M10Q.kicad_sym",
+  "source_library": "RF_GPS.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:14.912Z"
+}

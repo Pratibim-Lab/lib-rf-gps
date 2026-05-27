@@ -1,0 +1,17 @@
+{
+  "id": "RF_GPS/RXM-GPS-FM:RXM-GPS-FM",
+  "name": "RXM-GPS-FM",
+  "library": "RF_GPS",
+  "file": "RF_GPS.kicad_symdir/RXM-GPS-FM.kicad_sym",
+  "description": "Module GPS Low Power, 14mA tracking, 22 channels",
+  "datasheet": "https://linxtechnologies.com/wp/wp-content/uploads/rxm-gps-fm.pdf",
+  "keywords": "gps low-power",
+  "footprint": "RF_GPS:Linx_RXM-GPS",
+  "extends": "RXM-GPS-RM",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-gps@master/parts/RXM-GPS-FM/",
+  "part_path": "parts/RXM-GPS-FM",
+  "symbol_file": "parts/RXM-GPS-FM/RXM-GPS-FM.kicad_sym",
+  "source_library": "RF_GPS.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:14.948Z"
+}

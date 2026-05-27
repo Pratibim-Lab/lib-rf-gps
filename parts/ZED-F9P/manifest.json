@@ -1,0 +1,17 @@
+{
+  "id": "RF_GPS/ZED-F9P:ZED-F9P",
+  "name": "ZED-F9P",
+  "library": "RF_GPS",
+  "file": "RF_GPS.kicad_symdir/ZED-F9P.kicad_sym",
+  "description": "GNSS Module ZED F9, VCC 2.7V to 3.6V, LGA-54",
+  "datasheet": "https://content.u-blox.com/sites/default/files/ZED-F9P-04B_DataSheet_UBX-21044850.pdf",
+  "keywords": "u-blox GNSS multi-band RTK",
+  "footprint": "RF_GPS:ublox_ZED",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-gps@master/parts/ZED-F9P/",
+  "part_path": "parts/ZED-F9P",
+  "symbol_file": "parts/ZED-F9P/ZED-F9P.kicad_sym",
+  "source_library": "RF_GPS.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:14.960Z"
+}

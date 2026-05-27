@@ -1,0 +1,17 @@
+{
+  "id": "RF_GPS/L80-R:L80-R",
+  "name": "L80-R",
+  "library": "RF_GPS",
+  "file": "RF_GPS.kicad_symdir/L80-R.kicad_sym",
+  "description": "Quectel GPS Module",
+  "datasheet": "https://www.quectel.com/UploadImage/Downlad/Quectel_L80-R_Hardware_Design_V1.2.pdf",
+  "keywords": "quectel GPS GNSS module",
+  "footprint": "RF_GPS:Quectel_L80-R",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-gps@master/parts/L80-R/",
+  "part_path": "parts/L80-R",
+  "symbol_file": "parts/L80-R/L80-R.kicad_sym",
+  "source_library": "RF_GPS.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:14.872Z"
+}

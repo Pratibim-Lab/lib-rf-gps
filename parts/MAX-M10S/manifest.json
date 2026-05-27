@@ -1,0 +1,17 @@
+{
+  "id": "RF_GPS/MAX-M10S:MAX-M10S",
+  "name": "MAX-M10S",
+  "library": "RF_GPS",
+  "file": "RF_GPS.kicad_symdir/MAX-M10S.kicad_sym",
+  "description": "GNSS Module MAX M10, VCC 1.65V to 3.6V",
+  "datasheet": "https://content.u-blox.com/sites/default/files/MAX-M10S_DataSheet_UBX-20035208.pdf",
+  "keywords": "ublox GPS GNSS module",
+  "footprint": "RF_GPS:ublox_MAX",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-gps@master/parts/MAX-M10S/",
+  "part_path": "parts/MAX-M10S",
+  "symbol_file": "parts/MAX-M10S/MAX-M10S.kicad_sym",
+  "source_library": "RF_GPS.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:14.894Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "RF_GPS/L70-R:L70-R",
+  "name": "L70-R",
+  "library": "RF_GPS",
+  "file": "RF_GPS.kicad_symdir/L70-R.kicad_sym",
+  "description": "Quectel GPS Module",
+  "datasheet": "https://www.quectel.com/product/gps-only-l70-r",
+  "keywords": "quectel GPS GNSS module",
+  "footprint": "RF_GPS:Quectel_L70-R",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-gps@master/parts/L70-R/",
+  "part_path": "parts/L70-R",
+  "symbol_file": "parts/L70-R/L70-R.kicad_sym",
+  "source_library": "RF_GPS.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:14.867Z"
+}

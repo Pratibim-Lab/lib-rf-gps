@@ -1,0 +1,17 @@
+{
+  "id": "RF_GPS/ZOE-M8Q:ZOE-M8Q",
+  "name": "ZOE-M8Q",
+  "library": "RF_GPS",
+  "file": "RF_GPS.kicad_symdir/ZOE-M8Q.kicad_sym",
+  "description": "ultra small GNSS  module IC, SiP",
+  "datasheet": "https://content.u-blox.com/sites/default/files/ZOE-M8_HIM_UBX-16030136.pdf",
+  "keywords": "ublox gnss sip",
+  "footprint": "RF_GPS:ublox_ZOE_M8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-gps@master/parts/ZOE-M8Q/",
+  "part_path": "parts/ZOE-M8Q",
+  "symbol_file": "parts/ZOE-M8Q/ZOE-M8Q.kicad_sym",
+  "source_library": "RF_GPS.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:14.972Z"
+}

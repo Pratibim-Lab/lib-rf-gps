@@ -1,0 +1,17 @@
+{
+  "id": "RF_GPS/MAX-M8Q:MAX-M8Q",
+  "name": "MAX-M8Q",
+  "library": "RF_GPS",
+  "file": "RF_GPS.kicad_symdir/MAX-M8Q.kicad_sym",
+  "description": "GNSS Module MAX M8, VCC 2.7V to 3.6V",
+  "datasheet": "https://www.u-blox.com/sites/default/files/MAX-M8-FW3_DataSheet_%28UBX-15031506%29.pdf",
+  "keywords": "ublox GPS GNSS module",
+  "footprint": "RF_GPS:ublox_MAX",
+  "extends": "MAX-8C",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-gps@master/parts/MAX-M8Q/",
+  "part_path": "parts/MAX-M8Q",
+  "symbol_file": "parts/MAX-M8Q/MAX-M8Q.kicad_sym",
+  "source_library": "RF_GPS.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:14.904Z"
+}
